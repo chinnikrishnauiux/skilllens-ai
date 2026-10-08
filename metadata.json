@@ -1,0 +1,10 @@
+{
+  "name": "SkillLens AI - Skill Gap Analyzer & Career Platform",
+  "description": "Discover your skill gaps and build your career with AI-powered skill gap analysis, personalized roadmaps, project recommendations, and an interactive voice career coach.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
